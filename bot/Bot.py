@@ -13,7 +13,7 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO)
 
 # Конфигурация
-TOKEN = "8841128083:AAHNLQNSY6TPuOAzNO_aGbOBEIbkFVTvCoA"  # Замените на токен вашего бота
+TOKEN = "Bot"  # Замените на токен вашего бота
 DOWNLOAD_PATH = "downloads"
 
 # Создаем папку для скачивания
